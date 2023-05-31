@@ -1,6 +1,7 @@
 👋 Hi, I’m Charlie!
 
-- 💞️ I’m a PhD student in Environment and Biology at the University of York.
+- 💞️ I’m a PhD student in Environment and Biology at the University of York, studying AMR in the Environment.
+- 🌐 I'm an organiser for the 2nd Data Discoveries Event at York.
 - 👀 I’m interested in mainly data science and data visualisation from environmental and scientific data.
 - 🌱 I’m currently learning R package development and branching out into Python, as well as working through the Microsoft Student Resources.
 - 🌟 I was part of the CIUK University of York team for the annual student cluster challenge in 2022.

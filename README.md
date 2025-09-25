@@ -1,7 +1,7 @@
 👋 Hi, I’m Charlie!
 
-- 🌐 I’m a Research Associate in the Division of Population Health at the University of Sheffield, modelling commercial determinants of health.
-- 👀 I’m interested in mainly data science and data visualisation from scientific data. I mainly use R and Python languages.
+- 🌐 I’m a Research Associate in Health Economics at the University of Sheffield, modelling commercial determinants of health.
+- 👀 I’m interested in mainly data science and data visualisation from public and environmental health data. I mainly use R language.
 - 🌱 I am finishing my PhD from the University of York in Environmental Antimicrobial Resistance.
 - 🌟 I was part of the CIUK University of York team for the annual student cluster challenge in 2022.
 
